@@ -140,6 +140,11 @@ img{
     margin-right: 10px;
 }
 
+.review{
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
